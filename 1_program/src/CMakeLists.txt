@@ -1,2 +1,2 @@
-add_executable(Test test.cpp hello.cpp)
-set_property(TARGET Test PROPERTY CXX_STANDARD 14)
+add_executable(test test.cpp hello.cpp)
+set_property(TARGET test PROPERTY CXX_STANDARD 14)

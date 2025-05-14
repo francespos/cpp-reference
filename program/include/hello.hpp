@@ -3,4 +3,4 @@
 
 void hello();
 
-#endif
+#endif // ifndef HELLO_HPP

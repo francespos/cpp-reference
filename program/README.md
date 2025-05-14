@@ -6,7 +6,7 @@ $ cd build
 $ cmake -S .. -B .
 $ cmake --build .
 ```
-### How to use git
+## How to use git
 Il commit salva i cambiamenti localmente, il push spinge i commit locali nel
 server remoto (es. Github).
 ```sh

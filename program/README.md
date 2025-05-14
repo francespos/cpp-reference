@@ -7,8 +7,8 @@ $ cmake -S .. -B .
 $ cmake --build .
 ```
 ## How to use git
-Il commit salva i cambiamenti localmente, il push spinge i commit locali nel
-server remoto (es. Github).
+Commit saves changes locally, push transfers local commits to the remote
+server (i.e. Github).
 ```sh
 $ git add .
 $ git commit -m "."

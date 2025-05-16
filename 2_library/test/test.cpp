@@ -1,6 +1,5 @@
 #include <lib/hello.hpp>
 
-int main()
-{
+int main() {
     lib::hello();
 }

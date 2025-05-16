@@ -1,7 +1,6 @@
 #include <iostream>
 #include <hello.hpp>
 
-void hello()
-{
+void hello() {
     std::cout << "Hello!\n";
 }

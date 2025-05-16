@@ -1,6 +1,5 @@
 #include "hello.hpp"
 
-int main()
-{
+int main() {
     hello();
 }

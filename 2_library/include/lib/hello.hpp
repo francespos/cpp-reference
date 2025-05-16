@@ -1,8 +1,5 @@
-#ifndef LIB_HELLO_HPP
-#define LIB_HELLO_HPP
+#pragma once
 
 namespace lib {
     void hello();
 }
-
-#endif // ifndef LIB_HELLO_HPP

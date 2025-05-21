@@ -1,4 +1,4 @@
-#include <hello.hpp>
+#include <hello.h>
 
 int main() {
     hello();

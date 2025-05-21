@@ -1,4 +1,4 @@
-#include <lib/hello.hpp>
+#include <lib/hello.h>
 
 int main() {
     lib::hello();

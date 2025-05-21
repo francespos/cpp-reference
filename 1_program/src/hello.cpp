@@ -1,5 +1,5 @@
 #include <iostream>
-#include <hello.hpp>
+#include <hello.h>
 
 void hello() {
     std::cout << "Hello!\n";
